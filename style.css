@@ -14,7 +14,7 @@ h1 {
 
 div {
   padding: 5rem;
-  width: 40rem;
+  width: min(90%, 40rem);
   font-size: 2rem;
   text-align: center;
   margin: auto;
